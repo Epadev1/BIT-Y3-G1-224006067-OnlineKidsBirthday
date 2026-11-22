@@ -1,0 +1,6 @@
+<?php if (!empty($errors)): ?>
+    <div class="error-list" role="alert">
+        <p>Please check the following:</p>
+        <ul><?php foreach ($errors as $error): ?><li><?= e($error) ?></li><?php endforeach; ?></ul>
+    </div>
+<?php endif; ?>

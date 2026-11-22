@@ -1,0 +1,1 @@
+<section class="empty-panel error-panel"><span>🔒</span><h1>Access denied</h1><p><?= e($message ?? 'You do not have permission to view this page.') ?></p><a class="button" href="index.php?r=home">Back home</a></section>

@@ -1,0 +1,1 @@
+<section class="empty-panel error-panel"><span>🧭</span><h1>That action isn’t available</h1><p>Please use the links and buttons on the page.</p><a class="button" href="index.php?r=home">Back home</a></section>

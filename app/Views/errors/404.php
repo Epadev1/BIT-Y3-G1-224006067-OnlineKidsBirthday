@@ -1,0 +1,1 @@
+<section class="empty-panel error-panel"><span>🧁</span><h1>That page wandered off</h1><p><?= e($message ?? 'We couldn’t find what you were looking for.') ?></p><a class="button" href="index.php?r=home">Back home</a></section>

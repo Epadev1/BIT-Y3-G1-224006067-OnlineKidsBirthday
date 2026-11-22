@@ -1,0 +1,1 @@
+<section class="empty-panel error-panel"><span>🛠</span><h1>Something went wrong</h1><p>We couldn’t complete that request. Please try again in a moment.</p><a class="button" href="index.php?r=home">Back home</a></section>

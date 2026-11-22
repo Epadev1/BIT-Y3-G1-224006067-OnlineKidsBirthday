@@ -1,0 +1,1 @@
+<section class="empty-panel error-panel"><span>⌛</span><h1>Form expired</h1><p><?= e($message ?? 'Please reload the page and submit the form again.') ?></p><a class="button" href="index.php?r=home">Back home</a></section>

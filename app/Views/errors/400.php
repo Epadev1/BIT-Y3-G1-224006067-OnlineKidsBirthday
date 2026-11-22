@@ -1,0 +1,1 @@
+<section class="empty-panel error-panel"><span>🎈</span><h1>That request could not be completed</h1><p><?= e($message ?? 'Please check the details and try again.') ?></p><a class="button" href="index.php?r=home">Back home</a></section>
